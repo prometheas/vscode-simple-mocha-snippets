@@ -1,0 +1,22 @@
+{
+  "describe()": {
+    "prefix": "mocha-desc",
+    "body": "describe('${1:what thing or characteristic}', function () {\n\t$0\n});"
+  },
+  "before()": {
+    "prefix": "mocha-before",
+    "body": "before(function () {\n\t$0\n});"
+  },
+  "after()": {
+    "prefix": "mocha-after",
+    "body": "after(function () {\n\t$0\n});"
+  },
+  "it() sync": {
+    "prefix": "mocha-it",
+    "body": "it('${1:should }', function () {\n\t$0\n});"
+  },
+  "it() asnyc": {
+    "prefix": "mocha-itdone",
+    "body": "it('${1:should }', function (done) {\n\t$0\n\tdone();\n});"
+  }
+}

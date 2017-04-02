@@ -1,0 +1,25 @@
+{
+    "name": "simple-mocha-snippets",
+    "displayName": "Simple Mocha Snippets",
+    "description": "Simple snippets to remove friction from writing Mocha tests",
+    "version": "0.0.1",
+    "publisher": "prometheas",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/mocha-spec.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/chai-expect.json"
+            }
+        ]
+    }
+}
