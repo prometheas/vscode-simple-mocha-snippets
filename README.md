@@ -2,6 +2,8 @@
 
 Simple snippets to remove friction from writing [Mocha tests](http://mochajs.org) in [VS Code](https://code.visualstudio.com).
 
+I created this due to [problems](https://github.com/spoonscen/es6-mocha-snippets-vs-code/issues/3) I'd [encountered](https://github.com/spoonscen/es6-mocha-snippets-vs-code/issues/4)  [1] using [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets).
+
 
 ## Snippets
 
@@ -80,8 +82,12 @@ functions for its callbacks, so that
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+Will keep these to high level notes about what's new, and try to keep the more esoteric junk in the [CHANGELOG](./CHANGELOG.md).
+
 
 ### 1.0.0
 
 Initial release.
+
+
+[1]: I'm sure the problem was more about my lack of familiarity with hacking VS Code than anything else, but grappling it was just killing me.
