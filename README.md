@@ -1,8 +1,8 @@
 # simple-mocha-snippets README
 
-Simple snippets to remove friction from writing [Mocha tests (http://mochajs.org) in [VS Code](https://code.visualstudio.com).
+Simple snippets to remove friction from writing [Mocha tests](http://mochajs.org) in [VS Code](https://code.visualstudio.com).
 
-I created this due to [problems](https://github.com/spoonscen/es6-mocha-snippets-vs-code/issues/3) I'd [encountered](https://github.com/spoonscen/es6-mocha-snippets-vs-code/issues/4)  [1] using [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets).
+I created this due to [problems](https://github.com/spoonscen/es6-mocha-snippets-vs-code/issues/3) I'd [encountered](https://github.com/spoonscen/es6-mocha-snippets-vs-code/issues/4) using [ES6 Mocha Snippets](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets). (I'm sure the problem was more about my lack of familiarity with hacking VS Code than anything else, but grappling with it was just killing me.)
 
 
 ## Snippets
@@ -84,5 +84,3 @@ Will keep these to high level notes about what's new, and try to keep the more e
 
 Initial release.
 
-
-[1]: I'm sure the problem was more about my lack of familiarity with hacking VS Code than anything else, but grappling it was just killing me.
