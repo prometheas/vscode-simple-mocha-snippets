@@ -1,6 +1,6 @@
 # simple-mocha-snippets README
 
-Simple [VS Code](https://code.visualstudio.com) snippets to remove friction from writing [Mocha tests](http://mochajs.org).
+Simple snippets to remove friction from writing [Mocha tests](http://mochajs.org) in [VS Code](https://code.visualstudio.com).
 
 
 ## Snippets
